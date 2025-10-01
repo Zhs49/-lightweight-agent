@@ -1,0 +1,1 @@
+This is a lightweight agent project built with LangGraph that automatically cleans used-car data, plots correlation heatmaps, performs K-means clustering and PCA visualization, and calls OpenAI to generate value-retention clusters and pricing strategies—outputting a chart-rich Markdown report with a single command.
